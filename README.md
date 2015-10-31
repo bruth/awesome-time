@@ -21,6 +21,8 @@ Databases where time is a first class concept.
 
 ### Theory
 
+Concepts and theories related to time.
+
 - [Immutability](https://en.wikipedia.org/wiki/Immutable_object) - A property of something which prevents it from being changed.
 - [Perdurantism](https://en.wikipedia.org/wiki/Perdurantism) and [Endurantism](https://en.wikipedia.org/wiki/Endurantism) - Philosophical theories of persistence and identity.
 - [Temporal logic](https://en.wikipedia.org/wiki/Temporal_logic) - Any system of rules and symbolism for representing, and reasoning about, propositions qualified in terms of time.

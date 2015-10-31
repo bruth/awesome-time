@@ -7,3 +7,4 @@ First, thank you for wanting to contribute! To make it a pleasant process, here 
 - If the item falls under a new topic, add the section with a description and an anchor to the Table of Contents.
 - The Pull Request should state why the item is awesome.
 - Check your spelling and grammar and remove any trailing whitespace.
+- The item must be put in alphabetic order within the section. There is a [CI process](https://travis-ci.org/bruth/awesome-time) that checks this when a PR is submitted.
